@@ -25,7 +25,7 @@ else:
 tipo = input ("Qué tipo de pokemon quieres para empezar? ")
 if tipo == "agua":
     print ("Tu starter es Oshawott")
-elif tipo == "agua":
+elif tipo == "fuego":
     print ("Tu starter es Cyndaquil")
 else: 
     print ("Tu starter es Rowlet")
